@@ -1,3 +1,0 @@
-Correlation of PTS and Weight (Lbs):            0.0710455804049308
-Correlation of PTS and Height:            -0.13457938919958876
-Correlation of Weight (Lbs) and Height:            0.8375470365702434
