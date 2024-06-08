@@ -1,3 +1,2 @@
 # Data-Mining-185
-
-Hello
+Our Project performs data analysis on NBA basketball teams
